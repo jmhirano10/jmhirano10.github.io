@@ -69,7 +69,6 @@
 .background {
     position: absolute;
     z-index: 0;
-    overflow-y: scroll;
 }
 
 body {
@@ -77,7 +76,7 @@ body {
     padding: 0px;
     margin: 0px;
     overflow-x: hidden;
-    overflow-y: hidden;
+    overflow-y: scroll;
     width: 100vw;
     height: 100vh;
 }
