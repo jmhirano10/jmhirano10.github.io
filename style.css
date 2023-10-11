@@ -13,7 +13,7 @@
     border-style: solid;
     border-color: #c7c5c3;
     border-width: 2px;
-    transition: .2s;
+    transition: .3s;
 }
 .project-name {
     position: absolute;
@@ -21,13 +21,13 @@
     top: 45%;
     left: 50%-40px;
     text-align: center;
-    transition: .2s;
+    transition: .3s;
 }
 .project-info {
     position: relative;
     padding: 10px;
     top: 100%;
-    transition: .2s;
+    transition: .3s;
 }
 .projects-item {
     position: relative;
@@ -46,7 +46,7 @@
     background: rgba(255,255,255,0.2);
     backdrop-filter: blur(20px);
     transform-style: preserve-3d;
-    transition: .3s;
+    transition: .5s;
 }
 .projects-item:hover {
     border-color: #0381ff;
